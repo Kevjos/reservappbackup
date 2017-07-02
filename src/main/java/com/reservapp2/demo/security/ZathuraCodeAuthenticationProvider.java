@@ -25,6 +25,8 @@ import java.util.List;
 @Scope("singleton")
 @Component("zathuraCodeAuthenticationProvider")
 public class ZathuraCodeAuthenticationProvider implements AuthenticationProvider {
+    
+    int i;
     /**
      * Security Implementation
      */
