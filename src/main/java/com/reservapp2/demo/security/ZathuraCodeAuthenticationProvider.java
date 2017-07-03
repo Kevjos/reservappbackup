@@ -26,7 +26,7 @@ import java.util.List;
 @Component("zathuraCodeAuthenticationProvider")
 public class ZathuraCodeAuthenticationProvider implements AuthenticationProvider {
     
-    int i;
+    int i,e;
     /**
      * Security Implementation
      */
